@@ -1,14 +1,14 @@
-# Trabajo Final CRUD
+# Trabajo Final 
 Presentado por: 
 Sneyder Jesús Torres Ríos
-Gina Alexandra Reyes Motato
+
 
 Docente:
-Rafael Moreno Parra
+Diego Marin
 
 ## Descripción
 
-Desarrollo de CRUD en Web usando MySQL + PHP + JavaScript + Componente Grid + HTML5/CSS3 para gestionar los datos de una tabla de una base de datos.
+Desarrollo en Web usando MySQL + PHP + JavaScript + Componente Grid + HTML5/CSS3 para gestionar los datos de una tabla de una base de datos.
 
 Los datos representan información de un empleado.
 
